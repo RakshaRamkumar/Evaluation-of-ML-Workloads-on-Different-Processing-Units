@@ -40,6 +40,7 @@ CPU, GPU and multi-GPU is a key evaluation metric in this project.
 We used the multi-layer perceptron to implement Linear Regression. Here there were 4 Linear 
 layers each having 180 nodes followed by 2 Linear layers having 90 nodes and activation function of Relu 
 was applied to each layer of Linear layer till the time we get one input and only one output node. The evaluation output for this algorithm is represented in the following graph:
+
 ![image](https://github.com/RakshaRamkumar/Evaluation-of-ML-Workloads-on-Different-Processing-Units/assets/63054940/d6ed90b5-580a-4de6-9945-a7f789a0ec6d)
 
 ### Logistic Regression
